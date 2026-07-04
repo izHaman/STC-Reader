@@ -2,7 +2,7 @@ name: Smart Telegram Content-Reader
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/XX * * * *'
   workflow_dispatch:
 
 jobs:
